@@ -1,0 +1,25 @@
+{
+  "name": "odin_to_do",
+  "version": "1.0.0",
+  "description": "To-do web site built as a learning exercise for TOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nesquiker/Odin_To_Do.git"
+  },
+  "author": "Sean Reid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nesquiker/Odin_To_Do/issues"
+  },
+  "homepage": "https://github.com/Nesquiker/Odin_To_Do#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.2",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
